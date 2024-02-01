@@ -235,3 +235,13 @@
 // newFunc()
 
 // ridvan koyuncu deneme ve sahibine talha hocama mesaj etc....
+// ridvan koyuncu deneme ve sahibine talha hocama mesaj etc....
+// function out(){
+//     let outScope = "Ben dış değişkenim"
+//     function inFunc(){
+//         console.log(outScope)
+//     }
+//     return inFunc
+// }
+// let newFunc = out()
+// newFunc()
