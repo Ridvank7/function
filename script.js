@@ -233,3 +233,5 @@
 // }
 // let newFunc = out()
 // newFunc()
+
+// ridvan koyuncu deneme ve sahibine talha hocama mesaj etc....
